@@ -1,0 +1,13 @@
+{
+    "name": "sofiadb/ejercicio-slim",
+    "authors": [
+        {
+            "name": "SofiaBarreiro",
+            "email": "barreirosofia@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.1"
+    }
+}
